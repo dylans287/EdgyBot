@@ -19,6 +19,7 @@
 <li>EdgyBot is made only for <b>Edgenuity.com</b> & doesn't work on any other learning site. 🙅‍♂️</li><br>
 <li>EdgyBot <b>does not skip videos.</b> It watches them for you and does the ungraded work while you are AFK. It then moves on to the next activity and handles it accordingly. 🎥</li><br>
 <li>Activities with the name <b>"Assignment"</b> are not supported by EdgyBot 👎</li><br>
+<li>When purchasing the bot, a class is considered any box that leads to a list of activities on Edgenuity. It doesn't matter to us if it's one class split into more than one box, that means its more than one class. 👎</li><br>
 <li>Give at least 2 hours to get verified before making an issue. (Verifying orders is a manual job) ⏳</li><br>
 <li>EdgyBot has only been tested on Chrome, so for now, it should only be used with Chrome. 🤷‍♂️</li><br>
 <li>EdgyBot may not work on a school-owned device, unless the installation of Tampermonkey (the extension) is allowed. 💻</li><br>
