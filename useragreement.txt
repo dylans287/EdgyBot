@@ -4,6 +4,7 @@
 <p>After purchase of this tool, you take full responsibility for any potential outcome(s). Nobody who works with EdgePlus+ or on EdgyBot can be held responsible for anyone's use of this tool.</p><br>
 <p>This tool is for demonstrational, educational and research purposes ONLY, any other uses are not permitted. Academic integrity is extremely important; use of this tool is academic dishonesty and may get you punished in some form. Academic dishonesty is a serious offense; those affiliated with EdgePlus+ highly discourage it.</p><br>
 <p>Many things taught in class (online and/or in-person) are beneficial to you and others in the real world; use of this tool will harm that. You WILL miss out on potential important information your honest peers have learned.</p><br>
+<p>When purchasing the bot, a class is considered any box that leads to a list of activities on Edgenuity. It doesn't matter to us if it's one class split into more than one box, that means its more than one class.</p><br>
 <p>Any credit recieved during your course may be invalidated if any person(s) are caught using this tool during their academic career. By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.</p><br><br>
 
 <h2>END USER LICENSE AGREEMENT</h2><br>
