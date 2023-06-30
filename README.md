@@ -4,7 +4,7 @@
 </h3>
 <p align="center">Edge404 User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
-<p align="center"><b>Update Status: </b>currently working on making test & quiz automation better 😗</p>
+<p align="center"><b>Update Status: </b>currently working on finallizing sale of EdgePlus & Edgybot to 404-MIA with a full rebrand 😗</p>
 <br><br><br>
 <h3>Tool Description:</h3>
 <p>Edge404 is a mostly-AFK Edgenuity Bot brought to you by 404-MIA. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their coursemaps while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities <b>(excluding activities with the name: assignment)</b>, it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests. Edge404 can also complete a multitude of writing activities, such as online-content, eresources, journal activities, etc.<br><br>404-MIA developers are constantly active and dedicated to improving the user experience. They release bug fixes and new features on a daily basis, with plans to add even more in the near future. The Edgenuity website is closely monitored by the 404-MIA team to ensure that Edge404 functions smoothly and efficiently.</p>
