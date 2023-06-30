@@ -1,8 +1,8 @@
 <br><br>
 <h3 align="center">
-  <img style="width:350px;margin:0 auto;" src="https://raw.githubusercontent.com/404-mia/EdgyBot_Edgenuity_Bot/main/edge404.png"><br><br>
+  <img style="width:350px;margin:0 auto;" src="https://raw.githubusercontent.com/404-mia/Edge404_Edgenuity_Bot/main/edge404.png"><br><br>
 </h3>
-<p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
+<p align="center">Edge404 User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
 <p align="center"><b>Update Status: </b>currently working on making test & quiz automation better 😗</p>
 <br><br><br>
@@ -24,11 +24,11 @@
 <li>Please read the description along with installation steps & FAQ down below 👇</li><br>
 </ul>
 <h3>Installing Edge404</h3>
-Complete instructions for installing Edge404 can be found <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/How-to-install-EdgyBot">here.</a>
+Complete instructions for installing Edge404 can be found <a href="https://github.com/GSRHackZ/Edge404_Edgenuity_Bot/wiki/How-to-install-Edge404">here.</a>
 <br><br>
 <h3>Frequently Asked Questions:</h3>
-A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/FAQ-(or-Q&A)">FAQ</a>
+A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/GSRHackZ/Edge404_Edgenuity_Bot/wiki/FAQ-(or-Q&A)">FAQ</a>
 <br><br>
 <h3>User Agreement & Disclaimer</h3>
-Read the user agreement <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/useragreement.md" target="_self">here.</a>
+Read the user agreement <a href="https://github.com/GSRHackZ/Edge404_Edgenuity_Bot/blob/main/useragreement.md" target="_self">here.</a>
 <br><br>
