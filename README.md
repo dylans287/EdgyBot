@@ -1,32 +1,30 @@
 <br><br>
 <h3 align="center">
-  <img style="width:150px;margin:0 auto;" src="https://raw.githubusercontent.com/404-mia/EdgyBot_Edgenuity_Bot/main/edge404.png"><br><br>
-  EdgyBot v4.26<br><br>
+  <img style="width:350px;margin:0 auto;" src="https://raw.githubusercontent.com/404-mia/EdgyBot_Edgenuity_Bot/main/edge404.png"><br><br>
 </h3>
-<p align="center">By: <a href="https://github.com/GSRHackZ" target="_self">GSRHackZ</a> & <a href="https://github.com/ITAC85v2" target="_self">ITAC85v2</a></p><br>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
-<br><br><br>
+<br>
 <p align="center"><b>Update Status: </b>currently working on making test & quiz automation better 😗</p>
 <br><br><br>
 <h3>Tool Description:</h3>
-<p>EdgyBot is a mostly-AFK Edgenuity Bot brought to you by EdgePlus. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their coursemaps while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities <b>(excluding activities with the name: assignment)</b>, it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests. EdgyBot can also complete a multitude of writing activities, such as online-content, eresources, journal activities, etc.<br><br>EdgePlus developers are constantly active and dedicated to improving the user experience. They release bug fixes and new features on a daily basis, with plans to add even more in the near future. The Edgenuity website is closely monitored by the EdgePlus team to ensure that EdgyBot functions smoothly and efficiently.</p>
+<p>Edge404 is a mostly-AFK Edgenuity Bot brought to you by EdgePlus. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their coursemaps while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities <b>(excluding activities with the name: assignment)</b>, it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests. Edge404 can also complete a multitude of writing activities, such as online-content, eresources, journal activities, etc.<br><br>EdgePlus developers are constantly active and dedicated to improving the user experience. They release bug fixes and new features on a daily basis, with plans to add even more in the near future. The Edgenuity website is closely monitored by the EdgePlus team to ensure that Edge404 functions smoothly and efficiently.</p>
 <h3>Message From the EdgePlus Team:</h3>
 <b>The EdgePlus team is tired of answering questions and recieving complaints from people who haven't even read the installation and setup instructions, so <i>PLEASE</i> read the instructions before getting started. We will NOT respond to questions / issues regarding setup or installation, because all of the information needed for a smooth setup is provided in the link below ‼</b>
 <br><br><br>
 <h3>Important Notes:</h3><br>
 <ul>
 <li>Issues due to <b>User Error</b> such as picking the <b>wrong classes</b> will <i>NOT</i> be dealt with / refunded 🔴</li><br>
-<li>EdgyBot is made only for <b>Edgenuity.com</b> & doesn't work on any other learning site. 🙅‍♂️</li><br>
-<li>EdgyBot <b>does not skip videos.</b> It watches them for you and does the ungraded work while you are AFK. It then moves on to the next activity and handles it accordingly. 🎥</li><br>
-<li>Activities with the name <b>"Assignment"</b> are not supported by EdgyBot 👎</li><br>
+<li>Edge404 is made only for <b>Edgenuity.com</b> & doesn't work on any other learning site. 🙅‍♂️</li><br>
+<li>Edge404 <b>does not skip videos.</b> It watches them for you and does the ungraded work while you are AFK. It then moves on to the next activity and handles it accordingly. 🎥</li><br>
+<li>Activities with the name <b>"Assignment"</b> are not supported by Edge404 👎</li><br>
 <li>When purchasing the bot, a class is considered any box that leads to a list of activities on Edgenuity. It doesn't matter to us if it's one class split into more than one box, that means its more than one class. 👎</li><br>
 <li>Give at least 2 hours to get verified before making an issue. (Verifying orders is a manual job) ⏳</li><br>
-<li>EdgyBot has only been tested on Chrome, so for now, it should only be used with Chrome. 🤷‍♂️</li><br>
-<li>EdgyBot may not work on a school-owned device, unless the installation of Tampermonkey (the extension) is allowed. 💻</li><br>
+<li>Edge404 has only been tested on Chrome, so for now, it should only be used with Chrome. 🤷‍♂️</li><br>
+<li>Edge404 may not work on a school-owned device, unless the installation of Tampermonkey (the extension) is allowed. 💻</li><br>
 <li>Please read the description along with installation steps & FAQ down below 👇</li><br>
 </ul>
-<h3>Installing EdgyBot</h3>
-Complete instructions for installing EdgyBot can be found <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/How-to-install-EdgyBot">here.</a>
+<h3>Installing Edge404</h3>
+Complete instructions for installing Edge404 can be found <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/How-to-install-EdgyBot">here.</a>
 <br><br>
 <h3>Frequently Asked Questions:</h3>
 A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/FAQ-(or-Q&A)">FAQ</a>
