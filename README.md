@@ -4,6 +4,7 @@
 </h3>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
+<h3 align="center">We are back after a rough couple of days. Enjoy a week of free EdgyBot giveaways on us. 🎉🎉</h3><br>
 <p align="center"><b>Update Status: </b>currently working on finallizing sale of EdgePlus & Edgybot to EdgePlus with a full rebrand 😗</p>
 <br><br><br>
 <h3>Tool Description:</h3>
