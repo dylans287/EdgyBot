@@ -1,6 +1,6 @@
 <br><br>
 <h3 align="center">
-  <img style="width:350px;margin:0 auto;" src="https://github.com/EdgePlus/Edge404/blob/main/edgePlus2.png?raw=true"><br><br>
+  <img style="width:350px;margin:0 auto;" src="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/edgePlus2.png?raw=true"><br><br>
 </h3>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
@@ -24,11 +24,11 @@
 <li>Please read the description along with installation steps & FAQ down below 👇</li><br>
 </ul>
 <h3>Installing EdgyBot</h3>
-Complete instructions for installing EdgyBot can be found <a href="https://github.com/EdgePlus/EdgyBot/wiki/How-to-install-EdgyBot">here.</a>
+Complete instructions for installing EdgyBot can be found <a href="https://github.com/EdgePlus-MIA/EdgyBot/wiki/How-to-install-EdgyBot">here.</a>
 <br><br>
 <h3>Frequently Asked Questions:</h3>
-A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/EdgePlus/EdgyBot/wiki/FAQ-(or-Q&A)">FAQ</a>
+A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/EdgePlus-MIA/EdgyBot/wiki/FAQ-(or-Q&A)">FAQ</a>
 <br><br>
 <h3>User Agreement & Disclaimer</h3>
-Read the user agreement <a href="https://github.com/EdgePlus/EdgyBot/blob/main/useragreement.md" target="_self">here.</a>
+Read the user agreement <a href="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/useragreement.md" target="_self">here.</a>
 <br><br>
