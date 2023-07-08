@@ -1,12 +1,12 @@
 <br><br>
 <h3 align="center">
   <img style="width:250px; margin:0 auto;" src="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/edgePlus2.png?raw=true"><br><br>
+  <p>EdgyBot v4.31</p><br><br>
 </h3>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
-<h3 align="center">We are back after a rough couple of days. Enjoy a week of free EdgyBot giveaways on us. 🎉🎉</h3><br>
 <p align="center"><b>Update Status: </b>currently working on finallizing sale of EdgePlus & Edgybot to EdgePlus with a full rebrand 😗</p>
-<br><br><br>
+<br><br>
 <h3>Tool Description:</h3>
 <p>EdgyBot is a mostly-AFK Edgenuity Bot brought to you by EdgePlus. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their coursemaps while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities <b>(excluding activities with the name: assignment)</b>, it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests. EdgyBot can also complete a multitude of writing activities, such as online-content, eresources, journal activities, etc.<br><br>EdgePlus developers are constantly active and dedicated to improving the user experience. They release bug fixes and new features on a daily basis, with plans to add even more in the near future. The Edgenuity website is closely monitored by the EdgePlus team to ensure that EdgyBot functions smoothly and efficiently.</p>
 <h3>Message From the EdgePlus Team:</h3>
