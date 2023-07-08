@@ -1,7 +1,7 @@
 <br><br>
 <h3 align="center">
   <img style="width:250px; margin:0 auto;" src="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/edgePlus2.png?raw=true"><br><br>
-  <p>EdgyBot v4.31</p><br><br>
+  <p>EdgyBot v4.32</p><br><br>
 </h3>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
 <br>
