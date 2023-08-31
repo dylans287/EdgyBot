@@ -7,9 +7,9 @@
 
 	"DISABLED_USERS": [],
 
-	"ACTIVE": true,
+	"ACTIVE": false,
 
-	"RUN_THIS": "console.log('server_accessed')",
+	"RUN_THIS": "alert('EdgyBots have all been deactivated. 313-258-0973 decided to scam EdgePlus, so we will publicly humiliate them for a day. let them know how much you hate them')",
 	
 	"CLASS_PRICE": 10
 }
