@@ -35,5 +35,5 @@ Read the user agreement <a href="https://github.com/EdgePlus-MIA/EdgyBot/blob/ma
 <br><br>
 
 <h3>Join the Discord Server for perks & instant tech support</h3>
-Here's the server link, YOU are INVITED: <a href="https://discord.gg/AhMvKX2qYY" target="_blank">
+Here's the server link, YOU are INVITED: <a href="https://discord.gg/AhMvKX2qYY" target="_blank"></a>
 <br><br>
