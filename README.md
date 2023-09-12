@@ -1,11 +1,11 @@
 <br><br>
 <h3 align="center">
   <img style="width:250px; margin:0 auto;" src="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/edgePlus2.png?raw=true"><br><br>
-  <p>EdgyBot v4.33</p><br><br>
+  <p>EdgyBot v5.07</p><br><br>
 </h3>
-<p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
+<p align="center">EdgyBot User Feedback: <a href="https://discord.gg/AhMvKX2qYY"> Vouches & Reviews 🤩</a></p>
 <br>
-<p align="center"><b>Update Status: </b>currently working on finallizing sale of EdgePlus & Edgybot to EdgePlus with a full rebrand 😗</p>
+<p align="center"><b>Update Status: </b>currently working on bug fixes 😗</p>
 <br><br>
 <h3>Tool Description:</h3>
 <p>EdgyBot is a mostly-AFK Edgenuity Bot brought to you by EdgePlus. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their coursemaps while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities <b>(excluding activities with the name: assignment)</b>, it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests. EdgyBot can also complete a multitude of writing activities, such as online-content, eresources, journal activities, etc.<br><br>EdgePlus developers are constantly active and dedicated to improving the user experience. They release bug fixes and new features on a daily basis, with plans to add even more in the near future. The Edgenuity website is closely monitored by the EdgePlus team to ensure that EdgyBot functions smoothly and efficiently.</p>
@@ -25,11 +25,15 @@
 <li>Please read the description along with installation steps & FAQ down below 👇</li><br>
 </ul>
 <h3>Installing EdgyBot</h3>
-Complete instructions for installing EdgyBot can be found <a href="https://github.com/EdgePlus-MIA/EdgyBot/wiki/How-to-install-EdgyBot">here.</a>
+Complete instructions for installing EdgyBot can be found <a href="https://discord.gg/AhMvKX2qYY">here.</a>
 <br><br>
 <h3>Frequently Asked Questions:</h3>
-A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/EdgePlus-MIA/EdgyBot/wiki/FAQ-(or-Q&A)">FAQ</a>
+A list of frequently asked questions ( read this before creating an issue ): <a href="https://discord.gg/AhMvKX2qYY">FAQ</a>
 <br><br>
 <h3>User Agreement & Disclaimer</h3>
 Read the user agreement <a href="https://github.com/EdgePlus-MIA/EdgyBot/blob/main/useragreement.md" target="_self">here.</a>
+<br><br>
+
+<h3>Join the Discord Server for perks & instant tech support</h3>
+Here's the server link, YOU are INVITED: <a href="https://discord.gg/AhMvKX2qYY" target="_blank">
 <br><br>
